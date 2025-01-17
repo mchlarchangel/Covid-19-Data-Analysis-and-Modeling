@@ -114,7 +114,7 @@ pip install pandas numpy seaborn matplotlib missingno scikit-learn xgboost
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mchlarchangel/Covid-19-Data-Analysis-and-Modeling.git
+   git clone https://github.com/nnichaelangello/Covid-19-Data-Analysis-and-Modeling.git
    ```
 
 2. Navigate to the project directory:
